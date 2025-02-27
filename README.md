@@ -9,7 +9,15 @@
 + 🌎 I got a degree in Geography and Environment at [Pontificie Catholic University of Peru](https://www.pucp.edu.pe/)
 
 + 🌱 Research Interests: Remote Sensing, Land Use and Land Cover Change, Climate Change, Terrestrial Environments, Geospatial Analysis, Conservation, Flood Management, and Agriculture
-  
+
+## **Publications**
++ Monitoring gold mining activity using SAR-satellite data in Madre de Dios, Peru.  
+Co-author. Chapter A1.5.  Cloud-Based Remote Sensing with Google Earth Engine. Fundamentals and Applications. Springer Link. https://www.eefabook.org/
++ Combining spaceborne lidar from GEDI with local knowledge in the forest-agriculture interface of Ucayali, Peru. 
+Co-author, Ecology and Evolution (2024) https://doi.org/10.1002/ece3.70116
++ Creating near real-time alerts of illegal gold mining in the Peruvian Amazon using Synthetic Aperture Radar
+Lead Author, Environmental Research Communications (2024) https://doi.org/10.1088/2515-7620/ad937e
+
 ## **Skills**
 + 🔭 Languages and Tools: R, Python, JavaScript, HTML, CSS, Google Earth Engine, ArcGIS Pro, IDRISI TerrSet
 
