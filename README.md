@@ -4,7 +4,7 @@
 [Portfolio](https://milagrosbecerra.weebly.com/resume.html)
 
 ## **Environmental geographer who likes GIS 🗺️, Remote Sensing 🛰️, and earth science 🌎**
-+ 🎓 I am a second year grad student in MS GIS Geography at [Clark University](https://www.clarku.edu/)
++ 🎓 Grad MS GIS 2025 Geography at [Clark University](https://www.clarku.edu/)
 
 + 🌎 I got a degree in Geography and Environment at [Pontificie Catholic University of Peru](https://www.pucp.edu.pe/)
 
