@@ -25,7 +25,7 @@ Lead Author, Environmental Research Communications (2024) https://doi.org/10.108
 
 ## Get in touch
 ### **I'm always open and looking for any opportunity, feel free to reach me out via:<br />**
-- Email: [mbecerra@clarku.edu](mailto:mbecerra@clarku.edu)<br />
+- Email: [mbecerra@clarku.edu](mailto:milagros.becerra299@gmail.com)<br />
 - Linkedin: [Milagros Becerra](https://www.linkedin.com/in/milagros-becerra-a85807106/)<br />
 - Twitter: [@MilagrosBecerra](https://twitter.com/Milagro90800313)<br />
 - Medium: [@geomili](https://medium.com/@mbecerra_17225)
